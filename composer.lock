@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1e3fe9bdb8a563e23e2ecb962c06c5b4",
+    "content-hash": "0cbaa2d76f3b7d015203f9efbacd39c4",
     "packages": [
         {
             "name": "2amigos/yii2-file-upload-widget",
@@ -180,8 +180,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/blueimp/JavaScript-Canvas-to-Blob/zipball/12747b0d2ebddaadba40e542c799fd2810918cf8",
-                "reference": "12747b0d2ebddaadba40e542c799fd2810918cf8",
-                "shasum": null
+                "reference": "12747b0d2ebddaadba40e542c799fd2810918cf8"
             },
             "type": "bower-asset"
         },
@@ -196,8 +195,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/blueimp/jQuery-File-Upload/zipball/bb52d3493d725175fcf5554da034a317aaaea0e2",
-                "reference": "bb52d3493d725175fcf5554da034a317aaaea0e2",
-                "shasum": null
+                "reference": "bb52d3493d725175fcf5554da034a317aaaea0e2"
             },
             "require": {
                 "bower-asset/blueimp-canvas-to-blob": ">=2.1.1",
@@ -221,8 +219,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/blueimp/Gallery/zipball/8336bb5934cb623608808601129db3fbf9201a09",
-                "reference": "8336bb5934cb623608808601129db3fbf9201a09",
-                "shasum": null
+                "reference": "8336bb5934cb623608808601129db3fbf9201a09"
             },
             "type": "bower-asset"
         },
@@ -237,8 +234,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/blueimp/JavaScript-Load-Image/zipball/d088785e5bc7d5d861ad7f3d80f27f50b367b451",
-                "reference": "d088785e5bc7d5d861ad7f3d80f27f50b367b451",
-                "shasum": null
+                "reference": "d088785e5bc7d5d861ad7f3d80f27f50b367b451"
             },
             "type": "bower-asset"
         },
@@ -253,8 +249,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/blueimp/JavaScript-Templates/zipball/07b3dd455b971cf5d087fc86889fcadae48ab2fc",
-                "reference": "07b3dd455b971cf5d087fc86889fcadae48ab2fc",
-                "shasum": null
+                "reference": "07b3dd455b971cf5d087fc86889fcadae48ab2fc"
             },
             "type": "bower-asset"
         },
@@ -269,8 +264,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/twbs/bootstrap/zipball/68b0d231a13201eb14acd3dc84e51543d16e5f7e",
-                "reference": "68b0d231a13201eb14acd3dc84e51543d16e5f7e",
-                "shasum": null
+                "reference": "68b0d231a13201eb14acd3dc84e51543d16e5f7e"
             },
             "require": {
                 "bower-asset/jquery": ">=1.9.1,<4.0"
@@ -291,8 +285,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/RobinHerbots/Inputmask/zipball/5e670ad62f50c738388d4dcec78d2888505ad77b",
-                "reference": "5e670ad62f50c738388d4dcec78d2888505ad77b",
-                "shasum": null
+                "reference": "5e670ad62f50c738388d4dcec78d2888505ad77b"
             },
             "require": {
                 "bower-asset/jquery": ">=1.7"
@@ -307,14 +300,13 @@
             "version": "3.4.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jquery/jquery-dist.git",
+                "url": "git@github.com:jquery/jquery-dist.git",
                 "reference": "15bc73803f76bc53b654b9fdbbbc096f56d7c03d"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/jquery/jquery-dist/zipball/15bc73803f76bc53b654b9fdbbbc096f56d7c03d",
-                "reference": "15bc73803f76bc53b654b9fdbbbc096f56d7c03d",
-                "shasum": null
+                "reference": "15bc73803f76bc53b654b9fdbbbc096f56d7c03d"
             },
             "type": "bower-asset",
             "license": [
@@ -332,8 +324,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/components/jqueryui/zipball/44ecf3794cc56b65954cc19737234a3119d036cc",
-                "reference": "44ecf3794cc56b65954cc19737234a3119d036cc",
-                "shasum": null
+                "reference": "44ecf3794cc56b65954cc19737234a3119d036cc"
             },
             "require": {
                 "bower-asset/jquery": ">=1.6"
@@ -354,8 +345,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/bestiejs/punycode.js/zipball/38c8d3131a82567bfef18da09f7f4db68c84f8a3",
-                "reference": "38c8d3131a82567bfef18da09f7f4db68c84f8a3",
-                "shasum": null
+                "reference": "38c8d3131a82567bfef18da09f7f4db68c84f8a3"
             },
             "type": "bower-asset"
         },
@@ -370,8 +360,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/yiisoft/jquery-pjax/zipball/aef7b953107264f00234902a3880eb50dafc48be",
-                "reference": "aef7b953107264f00234902a3880eb50dafc48be",
-                "shasum": null
+                "reference": "aef7b953107264f00234902a3880eb50dafc48be"
             },
             "require": {
                 "bower-asset/jquery": ">=1.8"
@@ -678,17 +667,21 @@
         },
         {
             "name": "enshrined/svg-sanitize",
-            "version": "0.10.0",
+            "version": "0.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/darylldoyle/svg-sanitizer.git",
-                "reference": "5344d8511e494adf160f71f4b34024d3a3c66c82"
+                "reference": "6add43e5c5649bc40e3afcb68c522720dcb336f9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/darylldoyle/svg-sanitizer/zipball/5344d8511e494adf160f71f4b34024d3a3c66c82",
-                "reference": "5344d8511e494adf160f71f4b34024d3a3c66c82",
+                "url": "https://api.github.com/repos/darylldoyle/svg-sanitizer/zipball/6add43e5c5649bc40e3afcb68c522720dcb336f9",
+                "reference": "6add43e5c5649bc40e3afcb68c522720dcb336f9",
                 "shasum": ""
+            },
+            "require": {
+                "ext-dom": "*",
+                "ext-libxml": "*"
             },
             "require-dev": {
                 "codeclimate/php-test-reporter": "^0.1.2",
@@ -702,7 +695,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0+"
+                "GPL-2.0-or-later"
             ],
             "authors": [
                 {
@@ -711,7 +704,7 @@
                 }
             ],
             "description": "An SVG sanitizer for PHP",
-            "time": "2019-01-11T12:31:32+00:00"
+            "time": "2019-12-09T08:43:12+00:00"
         },
         {
             "name": "ezyang/htmlpurifier",
